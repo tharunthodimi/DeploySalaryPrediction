@@ -2,7 +2,7 @@
 """
 Created on Tue Jan 12 22:38:27 2021
 
-@author: krishna reddy
+@author: Tharun Tej Reddy Thodimi
 """
 import numpy as np
 from flask import Flask, request, jsonify, render_template
